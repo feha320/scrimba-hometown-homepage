@@ -155,6 +155,9 @@ img {
     font-weight: var(--fw-bold);
 }
 
+
+/* utility-classes */
+
 .text-italic {
     font-style: italic;
 }
